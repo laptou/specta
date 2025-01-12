@@ -22,7 +22,7 @@ default = []
 workspace = true
 
 [dependencies]
-specta = { version = "=2.0.0-rc.22", path = "../specta" }
+specta = { version = "=2.0.0-rc.21", path = "../specta" }
 specta-typescript = { version = "=0.0.8", path = "../specta-typescript" }
 # TODO: Don't depend on serde
 specta-serde = { version = "=0.0.8", path = "../specta-serde" }
